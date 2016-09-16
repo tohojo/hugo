@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/spf13/hugo/source"
+	"github.com/tohojo/hugo/source"
 	"github.com/stretchr/testify/assert"
 )
 

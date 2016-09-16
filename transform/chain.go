@@ -15,7 +15,7 @@ package transform
 
 import (
 	"bytes"
-	bp "github.com/spf13/hugo/bufferpool"
+	bp "github.com/tohojo/hugo/bufferpool"
 	"io"
 )
 

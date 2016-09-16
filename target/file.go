@@ -17,8 +17,8 @@ import (
 	"io"
 	"path/filepath"
 
-	"github.com/spf13/hugo/helpers"
-	"github.com/spf13/hugo/hugofs"
+	"github.com/tohojo/hugo/helpers"
+	"github.com/tohojo/hugo/hugofs"
 )
 
 type Publisher interface {

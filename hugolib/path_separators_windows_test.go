@@ -14,7 +14,7 @@
 package hugolib
 
 import (
-	"github.com/spf13/hugo/tpl"
+	"github.com/tohojo/hugo/tpl"
 	"testing"
 )
 

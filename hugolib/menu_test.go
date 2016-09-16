@@ -21,8 +21,8 @@ import (
 	"path/filepath"
 
 	"github.com/BurntSushi/toml"
-	"github.com/spf13/hugo/hugofs"
-	"github.com/spf13/hugo/source"
+	"github.com/tohojo/hugo/hugofs"
+	"github.com/tohojo/hugo/source"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 )

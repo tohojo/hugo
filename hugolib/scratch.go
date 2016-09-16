@@ -14,7 +14,7 @@
 package hugolib
 
 import (
-	"github.com/spf13/hugo/helpers"
+	"github.com/tohojo/hugo/helpers"
 	"reflect"
 	"sort"
 	"sync"

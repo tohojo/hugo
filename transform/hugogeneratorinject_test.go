@@ -17,7 +17,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/spf13/hugo/helpers"
+	"github.com/tohojo/hugo/helpers"
 )
 
 func TestHugoGeneratorInject(t *testing.T) {

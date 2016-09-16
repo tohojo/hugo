@@ -38,12 +38,12 @@ import (
 	"unicode/utf8"
 
 	"github.com/spf13/afero"
-	"github.com/spf13/hugo/hugofs"
+	"github.com/tohojo/hugo/hugofs"
 
 	"github.com/bep/inflect"
 
 	"github.com/spf13/cast"
-	"github.com/spf13/hugo/helpers"
+	"github.com/tohojo/hugo/helpers"
 	jww "github.com/spf13/jwalterweatherman"
 )
 

@@ -14,7 +14,7 @@
 package source
 
 import (
-	"github.com/spf13/hugo/hugofs"
+	"github.com/tohojo/hugo/hugofs"
 	"io"
 	"os"
 	"path/filepath"
@@ -23,7 +23,7 @@ import (
 
 	"github.com/spf13/viper"
 
-	"github.com/spf13/hugo/helpers"
+	"github.com/tohojo/hugo/helpers"
 	jww "github.com/spf13/jwalterweatherman"
 )
 

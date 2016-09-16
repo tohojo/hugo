@@ -25,10 +25,10 @@ import (
 
 	"github.com/bep/inflect"
 
-	"github.com/spf13/hugo/helpers"
-	"github.com/spf13/hugo/hugofs"
-	"github.com/spf13/hugo/source"
-	"github.com/spf13/hugo/target"
+	"github.com/tohojo/hugo/helpers"
+	"github.com/tohojo/hugo/hugofs"
+	"github.com/tohojo/hugo/source"
+	"github.com/tohojo/hugo/target"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 )

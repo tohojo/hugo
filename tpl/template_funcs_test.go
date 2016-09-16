@@ -30,7 +30,7 @@ import (
 
 	"github.com/spf13/afero"
 	"github.com/spf13/cast"
-	"github.com/spf13/hugo/hugofs"
+	"github.com/tohojo/hugo/hugofs"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 )

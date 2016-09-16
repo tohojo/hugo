@@ -16,7 +16,7 @@ package transform
 import (
 	"bytes"
 	"fmt"
-	"github.com/spf13/hugo/helpers"
+	"github.com/tohojo/hugo/helpers"
 	"testing"
 )
 

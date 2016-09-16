@@ -15,7 +15,7 @@ package commands
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/spf13/hugo/hugolib"
+	"github.com/tohojo/hugo/hugolib"
 )
 
 var checkCmd = &cobra.Command{

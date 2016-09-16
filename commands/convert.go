@@ -20,9 +20,9 @@ import (
 
 	"github.com/spf13/cast"
 	"github.com/spf13/cobra"
-	"github.com/spf13/hugo/helpers"
-	"github.com/spf13/hugo/hugolib"
-	"github.com/spf13/hugo/parser"
+	"github.com/tohojo/hugo/helpers"
+	"github.com/tohojo/hugo/hugolib"
+	"github.com/tohojo/hugo/parser"
 	jww "github.com/spf13/jwalterweatherman"
 	"github.com/spf13/viper"
 )

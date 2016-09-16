@@ -26,9 +26,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/spf13/hugo/hugofs"
+	"github.com/tohojo/hugo/hugofs"
 
-	"github.com/spf13/hugo/parser"
+	"github.com/tohojo/hugo/parser"
 	flag "github.com/spf13/pflag"
 
 	"regexp"
@@ -37,11 +37,11 @@ import (
 	"github.com/spf13/afero"
 	"github.com/spf13/cobra"
 	"github.com/spf13/fsync"
-	"github.com/spf13/hugo/helpers"
-	"github.com/spf13/hugo/hugolib"
-	"github.com/spf13/hugo/livereload"
-	"github.com/spf13/hugo/utils"
-	"github.com/spf13/hugo/watcher"
+	"github.com/tohojo/hugo/helpers"
+	"github.com/tohojo/hugo/hugolib"
+	"github.com/tohojo/hugo/livereload"
+	"github.com/tohojo/hugo/utils"
+	"github.com/tohojo/hugo/watcher"
 	jww "github.com/spf13/jwalterweatherman"
 	"github.com/spf13/nitro"
 	"github.com/spf13/viper"

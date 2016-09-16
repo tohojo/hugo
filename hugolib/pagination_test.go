@@ -19,7 +19,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/spf13/hugo/source"
+	"github.com/tohojo/hugo/source"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 )

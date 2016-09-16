@@ -15,9 +15,9 @@ package hugolib
 
 import (
 	"github.com/dchest/cssmin"
-	"github.com/spf13/hugo/helpers"
-	"github.com/spf13/hugo/source"
-	"github.com/spf13/hugo/tpl"
+	"github.com/tohojo/hugo/helpers"
+	"github.com/tohojo/hugo/source"
+	"github.com/tohojo/hugo/tpl"
 )
 
 func init() {
