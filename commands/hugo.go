@@ -42,7 +42,7 @@ import (
 	"github.com/tohojo/hugo/livereload"
 	"github.com/tohojo/hugo/utils"
 	"github.com/tohojo/hugo/watcher"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 	"github.com/spf13/nitro"
 	"github.com/spf13/viper"
 )

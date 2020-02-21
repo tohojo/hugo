@@ -43,7 +43,7 @@ import (
 	"github.com/tohojo/hugo/target"
 	"github.com/tohojo/hugo/tpl"
 	"github.com/tohojo/hugo/transform"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 	"github.com/spf13/nitro"
 	"github.com/spf13/viper"
 )

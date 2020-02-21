@@ -24,7 +24,7 @@ import (
 	"github.com/spf13/viper"
 
 	"github.com/tohojo/hugo/helpers"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 )
 
 type Input interface {

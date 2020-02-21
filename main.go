@@ -17,7 +17,7 @@ import (
 	"runtime"
 
 	"github.com/tohojo/hugo/commands"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 	"os"
 )
 

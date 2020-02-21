@@ -28,7 +28,7 @@ import (
 	"github.com/tohojo/hugo/helpers"
 	"github.com/tohojo/hugo/hugolib"
 	"github.com/tohojo/hugo/parser"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 	"github.com/spf13/viper"
 )
 

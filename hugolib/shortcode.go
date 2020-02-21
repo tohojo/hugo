@@ -27,7 +27,7 @@ import (
 	bp "github.com/tohojo/hugo/bufferpool"
 	"github.com/tohojo/hugo/helpers"
 	"github.com/tohojo/hugo/tpl"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 )
 
 // ShortcodeWithPage is the "." context in a shortcode template.

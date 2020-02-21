@@ -39,7 +39,7 @@ import (
 	"github.com/tohojo/hugo/hugofs"
 	"github.com/tohojo/hugo/source"
 	"github.com/tohojo/hugo/tpl"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 	"github.com/spf13/viper"
 )
 

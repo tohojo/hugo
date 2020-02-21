@@ -44,7 +44,7 @@ import (
 
 	"github.com/spf13/cast"
 	"github.com/tohojo/hugo/helpers"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 )
 
 var funcMap template.FuncMap

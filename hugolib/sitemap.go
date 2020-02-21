@@ -15,7 +15,7 @@ package hugolib
 
 import (
 	"github.com/spf13/cast"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 )
 
 // Sitemap configures the sitemap to be generated.

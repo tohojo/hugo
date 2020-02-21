@@ -16,7 +16,7 @@ package utils
 import (
 	"os"
 
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 )
 
 // CheckErr logs the messages given and then the error.

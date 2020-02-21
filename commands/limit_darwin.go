@@ -31,7 +31,7 @@ import (
 	"syscall"
 
 	"github.com/spf13/cobra"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 )
 
 func init() {

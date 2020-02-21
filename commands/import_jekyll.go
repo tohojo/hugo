@@ -32,7 +32,7 @@ import (
 	"github.com/tohojo/hugo/hugofs"
 	"github.com/tohojo/hugo/hugolib"
 	"github.com/tohojo/hugo/parser"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 )
 
 func init() {

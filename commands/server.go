@@ -30,7 +30,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/tohojo/hugo/helpers"
 	"github.com/tohojo/hugo/hugofs"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 	"github.com/spf13/viper"
 )
 

@@ -18,7 +18,7 @@ import (
 	"crypto/sha1"
 	"fmt"
 	"github.com/tohojo/hugo/hugofs"
-	jww "github.com/spf13/jwalterweatherman"
+	jww "github.com/tohojo/jwalterweatherman"
 	"github.com/spf13/viper"
 	"io"
 	"io/ioutil"
